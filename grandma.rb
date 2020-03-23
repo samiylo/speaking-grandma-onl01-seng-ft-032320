@@ -24,4 +24,3 @@ def speak_to_grandma(phrase)
 else
   return "HU?! SPEAK UP, SONNY"
 end
-end
